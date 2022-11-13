@@ -1,0 +1,15 @@
+D:\Семинары GB\Seminar 11 (programing) DZ\Task1\bin\Debug\net6.0\Task1.exe
+D:\Семинары GB\Seminar 11 (programing) DZ\Task1\bin\Debug\net6.0\Task1.deps.json
+D:\Семинары GB\Seminar 11 (programing) DZ\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+D:\Семинары GB\Seminar 11 (programing) DZ\Task1\bin\Debug\net6.0\Task1.dll
+D:\Семинары GB\Seminar 11 (programing) DZ\Task1\bin\Debug\net6.0\Task1.pdb
+D:\Семинары GB\Seminar 11 (programing) DZ\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+D:\Семинары GB\Seminar 11 (programing) DZ\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Семинары GB\Seminar 11 (programing) DZ\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+D:\Семинары GB\Seminar 11 (programing) DZ\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+D:\Семинары GB\Seminar 11 (programing) DZ\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+D:\Семинары GB\Seminar 11 (programing) DZ\Task1\obj\Debug\net6.0\Task1.dll
+D:\Семинары GB\Seminar 11 (programing) DZ\Task1\obj\Debug\net6.0\refint\Task1.dll
+D:\Семинары GB\Seminar 11 (programing) DZ\Task1\obj\Debug\net6.0\Task1.pdb
+D:\Семинары GB\Seminar 11 (programing) DZ\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+D:\Семинары GB\Seminar 11 (programing) DZ\Task1\obj\Debug\net6.0\ref\Task1.dll
